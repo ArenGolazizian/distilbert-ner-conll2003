@@ -41,4 +41,4 @@ The fine-tuned model and detailed results are available on HuggingFace:
 
 ## Applications
 
-Named Entity Recognition is a foundational task in natural language processing with broad applications. The techniques and models developed in this project can be applied to information extraction for business intelligence, news analytics, and search engines; conversational AI for chatbots and virtual assistants; and content analysis for social media, legal, and medical documents.d
+Named Entity Recognition is a foundational task in natural language processing with broad applications. The techniques and models developed in this project can be applied to information extraction for business intelligence, news analytics, and search engines; conversational AI for chatbots and virtual assistants; and content analysis for social media, legal, and medical documents.
